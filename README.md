@@ -8,7 +8,8 @@ Arduino activities made at ETEC Albert Einstein
 Activites
 =================
 <!--ts-->
-   * [RGBbyPot](#calculator)
+   * [Potentiometer controlled RGB LED](#RGBbyPot)
+   * [Button controlled LEDs](#LEDsbyButton)
 <!--te-->
 ## RGBbyPot
 **Challenge:**
@@ -18,8 +19,22 @@ Activites
 * Show the Results of the Operation
 
 ### Project structure
-![image prompt](Calculator/Prompt.PNG)
+![physical config](RGBbyPot/RGBbyPot.png)
 >
 <p align="center"> 
-  <a href="https://github.com/VictorL-Santos/PortugolProjects/blob/main/Calculator/CalculatorInPortugol"> <img src="button.png"> </a>
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/RGBbyPot/Code"><img src="button.png"></a>
+</p>
+
+## LEDsbyButton
+**Challenge:**
+* Read two inputs 
+* Show the Table of Operations
+* Read the Operation
+* Show the Results of the Operation
+
+### Project structure
+![physical config](LEDsbyButton/LEDbyButton.png)
+>
+<p align="center"> 
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDsbyButton/Code"><img src="button.png"></a>
 </p>
