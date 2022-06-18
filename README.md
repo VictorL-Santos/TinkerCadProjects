@@ -33,7 +33,7 @@ Activites
 * Show the Results of the Operation
 
 ### Project structure
-![physical config](LEDsbyButton/LEDbyButton.png)
+![physical config](LEDsByButton/LEDbyButton.png)
 >
 <p align="center"> 
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDsByButton/Code"><img src="button.png"></a>
