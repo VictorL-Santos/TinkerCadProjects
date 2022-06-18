@@ -27,7 +27,7 @@ Activites
 
 ## LEDsbyButton
 **Challenge:**
-* Read two inputs 
+* Read two inputs
 * Show the Table of Operations
 * Read the Operation
 * Show the Results of the Operation
