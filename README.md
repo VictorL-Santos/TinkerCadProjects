@@ -27,9 +27,11 @@ Activites
 ## LEDsbyButton
 **Challenge:**
 * The LEDs must respond to the button
-* Show the Table of Operations
-* Read the Operation
-* Show the Results of the Operation
+* When pressing the button for the first time, all LEDs should light up and remain lit.
+* When pressing the button a second time, all LEDs flash simultaneously.
+* When pressing the button for the third time, the LEDs flash sequentially.
+* When pressing the button for the fourth time, all LEDs turn off.
+* If pressed again, the process is repeated.
 
 ### Project structure
 ![physical config](LEDsByButton/LEDbyButton.png)
