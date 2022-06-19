@@ -26,7 +26,7 @@ Activites
 
 ## LEDsbyButton
 **Challenge:**
-* Read two inputs
+* The LEDs must respond to the button
 * Show the Table of Operations
 * Read the Operation
 * Show the Results of the Operation
