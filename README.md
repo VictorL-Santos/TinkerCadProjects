@@ -13,7 +13,7 @@ Activites
 <!--te-->
 ## RGBbyPot
 **Challenge:**
-* Read two inputs 
+* Assign each RGB LED input to a potentiometer 
 * Show the Table of Operations
 * Read the Operation
 * Show the Results of the Operation
