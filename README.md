@@ -24,7 +24,7 @@ Activites
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/RGBbyPot/Code"><img src="button.png"></a>
 </p>
 
-## LEDsbyButton
+## ServobyButton
 **Challenge:**
 * The LEDs must respond to the button
 * When pressing the button for the first time, all LEDs should light up and remain lit.
@@ -38,4 +38,20 @@ Activites
 >
 <p align="center"> 
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDsByButton/Code"><img src="button.png"></a>
+</p>
+
+## LEDsbyButton
+**Challenge:**
+* The LEDs must respond to the button
+* When pressing the button for the first time, all LEDs should light up and remain lit.
+* When pressing the button a second time, all LEDs flash simultaneously.
+* When pressing the button for the third time, the LEDs flash sequentially.
+* When pressing the button for the fourth time, all LEDs turn off.
+* If pressed again, the process is repeated.
+
+### Project structure
+![physical config](ServobyButton/Servo.png)
+>
+<p align="center"> 
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/ServobyButton/Code"><img src="button.png"></a>
 </p>
