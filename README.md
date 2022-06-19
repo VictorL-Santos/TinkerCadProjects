@@ -14,9 +14,8 @@ Activites
 ## RGBbyPot
 **Challenge:**
 * Assign each RGB LED input to a potentiometer 
-* Show the Table of Operations
-* Read the Operation
-* Show the Results of the Operation
+* When rotating a potentiometer, the color assigned to it will be gradually intensified.
+* By simultaneously rotating two or more potentiometers the color will be mixed.
 
 ### Project structure
 ![physical config](RGBbyPot/RGBbyPot.png)
