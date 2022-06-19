@@ -24,7 +24,7 @@ Activites
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/RGBbyPot/Code"><img src="button.png"></a>
 </p>
 
-## ServobyButton
+## LEDsbyButton
 **Challenge:**
 * The LEDs must respond to the button
 * When pressing the button for the first time, all LEDs should light up and remain lit.
@@ -40,14 +40,15 @@ Activites
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDsByButton/Code"><img src="button.png"></a>
 </p>
 
-## LEDsbyButton
+## ServobyButton
 **Challenge:**
-* The LEDs must respond to the button
-* When pressing the button for the first time, all LEDs should light up and remain lit.
-* When pressing the button a second time, all LEDs flash simultaneously.
-* When pressing the button for the third time, the LEDs flash sequentially.
-* When pressing the button for the fourth time, all LEDs turn off.
-* If pressed again, the process is repeated.
+* The servo and LEDs respond to the button.
+* When pressing the button:
+  * The MicroServo will rotate 90 degrees, symbolizing the gate opening.
+  * A green LED will light up, symbolizing that the gate is open.
+* When the button is released:
+  * The MicroServo will return to its original position, symbolizing the closing of the gate.
+  * A red LED will light up, symbolizing that the gate is closed.
 
 ### Project structure
 ![physical config](ServobyButton/Servo.png)
