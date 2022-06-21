@@ -10,6 +10,7 @@ Activites
 <!--ts-->
    * [Potentiometer controlled RGB LED](#RGBbyPot)
    * [Button controlled LEDs](#LEDsbyButton)
+   * [Servo Controlled by Button](#ServobyButton)
 <!--te-->
 ## RGBbyPot
 **Challenge:**
