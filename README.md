@@ -11,6 +11,7 @@ Activites
    * [Potentiometer controlled RGB LED](#RGBbyPot)
    * [Button controlled LEDs](#LEDsbyButton)
    * [Servo Controlled by Button](#ServobyButton)
+   * [LED Sequenced](#LEDSequence)
 <!--te-->
 ## RGBbyPot
 **Challenge:**
