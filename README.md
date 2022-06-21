@@ -62,7 +62,7 @@ Activites
 ## LEDSequence
 **Challenge:**
 * LEDs light up in order when the successor is on the previous one is off. 
-* All LEDs need to be on and then all turn off
+* The LEDs light up in an orderly fashion and remain lit.
 * Pressing the button for the second time, all LEDs will blink continuously
 * All LEDs turn on and turn off backwards
 
