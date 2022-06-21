@@ -21,7 +21,7 @@ Activites
 ![physical config](RGBbyPot/RGBbyPot.png)
 >
 <p align="center"> 
-  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/RGBbyPot/Code"><img src="button.png"></a>
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/RGBbyPot/Code.ino"><img src="button.png"></a>
 </p>
 
 ## LEDsbyButton
