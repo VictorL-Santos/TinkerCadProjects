@@ -37,7 +37,7 @@ Activites
 ![physical config](LEDsByButton/LEDbyButton.png)
 >
 <p align="center"> 
-  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDsByButton/Code"><img src="button.png"></a>
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDsByButton/Code.ino"><img src="button.png"></a>
 </p>
 
 ## ServobyButton
