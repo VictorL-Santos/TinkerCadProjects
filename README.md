@@ -66,6 +66,7 @@ Activites
 * when the last LED is on, they all turn off.
 * All LEDs flash simultaneously 3 times.
 * The LEDs light up in an orderly fashion and remain lit.
+* when the last led is on, the leds turn off from back to front.
 
 ### Project structure
 ![physical config](LEDSequence/LEDSequence.png)
