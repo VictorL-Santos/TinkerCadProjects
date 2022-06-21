@@ -61,13 +61,10 @@ Activites
 
 ## LEDSequence
 **Challenge:**
-* The servo and LEDs respond to the button.
-* When pressing the button:
-  * The MicroServo will rotate 90 degrees, symbolizing the gate opening.
-  * A green LED will light up, symbolizing that the gate is open.
-* When the button is released:
-  * The MicroServo will return to its original position, symbolizing the closing of the gate.
-  * A red LED will light up, symbolizing that the gate is closed.
+* LEDs light up in order when the successor is on the previous one is off. 
+* All LEDs need to be on and then all turn off
+* Pressing the button for the second time, all LEDs will blink continuously
+* All LEDs turn on and turn off backwards
 
 ### Project structure
 ![physical config](LEDSequence/LEDSequence.png)
