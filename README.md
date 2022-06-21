@@ -56,7 +56,7 @@ Activites
 ![physical config](ServobyButton/Servo.png)
 >
 <p align="center"> 
-  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDSequence/Code.ino"><img src="button.png"></a>
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/ServobyButton/Code.ino"><img src="button.png"></a>
 </p>
 
 ## LEDSequence
