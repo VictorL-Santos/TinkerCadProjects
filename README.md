@@ -63,7 +63,7 @@ Activites
 **Challenge:**
 * LEDs light up in order when the successor is on the previous one is off. 
 * The LEDs light up in an orderly fashion and remain lit.
-* Pressing the button for the second time, all LEDs will blink continuously
+* when the last LED is on, they all turn off.
 * All LEDs turn on and turn off backwards
 
 ### Project structure
