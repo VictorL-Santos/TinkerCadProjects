@@ -70,7 +70,7 @@ Activites
   * A red LED will light up, symbolizing that the gate is closed.
 
 ### Project structure
-![physical config](ServobyButton/Servo.png)
+![physical config](LEDSequence/LEDSequence.png)
 >
 <p align="center"> 
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/ServobyButton/Code.ino"><img src="button.png"></a>
