@@ -54,5 +54,22 @@ Activites
 ![physical config](ServobyButton/Servo.png)
 >
 <p align="center"> 
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDSequence/Code"><img src="button.png"></a>
+</p>
+
+## LEDSequence
+**Challenge:**
+* The servo and LEDs respond to the button.
+* When pressing the button:
+  * The MicroServo will rotate 90 degrees, symbolizing the gate opening.
+  * A green LED will light up, symbolizing that the gate is open.
+* When the button is released:
+  * The MicroServo will return to its original position, symbolizing the closing of the gate.
+  * A red LED will light up, symbolizing that the gate is closed.
+
+### Project structure
+![physical config](ServobyButton/Servo.png)
+>
+<p align="center"> 
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/ServobyButton/Code"><img src="button.png"></a>
 </p>
