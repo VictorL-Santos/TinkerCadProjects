@@ -80,7 +80,7 @@ Activites
 **Challenge:**
 * The LEDs will respond to the distance of the Sensor.
 * When the distance were bigger than two hundred centimeters, a Green LED will turn on. 
-* When the distance were bigger than one hundred but smaller than two hundreds, a Yellow LED will turn on.
+* When the distance were bigger than one hundred but smaller than two hundreds centimeters, a Yellow LED will turn on.
 * When the distance were smaller than one hundred, a Red LED will turn on.
 
 ### Project structure
