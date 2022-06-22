@@ -80,7 +80,7 @@ Activites
 **Challenge:**
 * The LEDs will respond to the distance of the Sensor.
 * When the distance were bigger than two hundred centimeters, a Green LED will turn on. 
-* when the last LED is on, they all turn off.
+* 
 * All LEDs flash simultaneously 3 times.
 * The LEDs light up in an orderly fashion and remain lit.
 * when the last led is on, the leds turn off from back to front.
