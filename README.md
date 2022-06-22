@@ -90,5 +90,5 @@ Activites
 ![physical config](ProximitySensor/t725.png)
 >
 <p align="center"> 
-  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDSequence/Code.ino"><img src="button.png"></a>
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/ProximitySensor/Code.ino"><img src="button.png"></a>
 </p>
