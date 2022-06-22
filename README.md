@@ -75,3 +75,20 @@ Activites
 <p align="center"> 
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDSequence/Code.ino"><img src="button.png"></a>
 </p>
+
+## ProximitySensor
+**Challenge:**
+* LEDs light up in order when the successor is on the previous one is off. 
+* The LEDs light up in an orderly fashion and remain lit.
+* when the last LED is on, they all turn off.
+* All LEDs flash simultaneously 3 times.
+* The LEDs light up in an orderly fashion and remain lit.
+* when the last led is on, the leds turn off from back to front.
+* All LEDs flash simultaneously 3 times.
+
+### Project structure
+![physical config](LEDSequence/LEDSequence.png)
+>
+<p align="center"> 
+  <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDSequence/Code.ino"><img src="button.png"></a>
+</p>
