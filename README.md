@@ -87,7 +87,7 @@ Activites
 * All LEDs flash simultaneously 3 times.
 
 ### Project structure
-![physical config](LEDSequence/LEDSequence.png)
+![physical config](ProximitySensor/LEDSequence.png)
 >
 <p align="center"> 
   <a href="https://github.com/VictorL-Santos/TinkerCadProjects/blob/main/LEDSequence/Code.ino"><img src="button.png"></a>
